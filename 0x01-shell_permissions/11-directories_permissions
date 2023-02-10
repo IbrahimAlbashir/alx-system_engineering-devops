@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode -Rugo+X
+chmode -R ugo+X
